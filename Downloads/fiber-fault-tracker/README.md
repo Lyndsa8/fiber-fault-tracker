@@ -112,13 +112,13 @@ There are tools that help in fiber fault detection, but they come with challenge
 
 \## 📅 Development Plan
 
-\- \*\*Week 1 (Oct 1–7):\*\* Core calculation logic + local API.
+\- \*\*Week 1 :\*\* Core calculation logic + local API.
 
-\- \*\*Week 2 (Oct 8–14):\*\* Frontend + deploy to AWS.
+\- \*\*Week 2 :\*\* Frontend + deploy to AWS.
 
-\- \*\*Week 3 (Oct 15–21):\*\* Visualization + logging + security.
+\- \*\*Week 3 :\*\* Visualization + logging + security.
 
-\- \*\*Week 4 (Oct 22–31):\*\* Polish + docs + LinkedIn demo.
+\- \*\*Week 4 :\*\* Polish + docs + LinkedIn demo.
 
 
 
